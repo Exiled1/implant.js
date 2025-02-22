@@ -2,7 +2,7 @@
 
 A **proof-of-concept**\* modular implant platform leveraging the [v8 JavaScript engine](https://v8.dev).
 
-Initially released and presented at DistrictCon 0. Slides and recording will be added here after publication.
+Initially released and presented at DistrictCon 0. Slides are available [here](https://github.com/captainGeech42/talks/blob/main/2025-02-22_DistrictCon0_implantjs/slides.pdf), and the recording will be added here after publication.
 
 _* there is no authentication, encryption, or module verification being performed, and zero regards for on-target OPSEC. if you use this on an op, you will look dumb and if i find out i will shame you on social media :)_
 
