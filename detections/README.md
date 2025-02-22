@@ -25,7 +25,7 @@ ET rules:
 - `2060263 - ET MALWARE implant.js Activity (DBG_RESP_* with DebugMode=ON)`
 - `2060264 - ET MALWARE implant.js CnC Activity (DBG_RESP_* Sent)`
 
-Additionally, a [PCAP](implantjs_traffic.pcap) is available to show what the protocol looks like over the wire for folks to write their own signatrues
+Additionally, a [PCAP](implantjs_traffic.pcap) is available to show what the protocol looks like over the wire for folks to write their own signatures.
 
 ## Host-based
 
